@@ -1,4 +1,4 @@
-Ubuntu or Fedora - best choices.
+Ubuntu or Fedora - good choices.
 
 Ubuntu:
 1. Install Flatpak and Flathub
@@ -18,7 +18,7 @@ and the name has to match the metadata.json file's UUID. home/username/.local/sh
 if the polish server is offline as it often is. Enable AppStream metadata.
 7. Install multimedia codecs, AMD drivers and firmware from rpmfusion website.
 8. Install VSCode using Microsoft's website but don't download the rpm package, instead use the script and add a repo to have it in dnf.
-9. Set the dark theme and in gnome-tweaks set adwaita legacy dark theme. Center new windows etc.
+9. Set the dark theme and in gnome-tweaks set the adwaita legacy dark theme. Center new windows etc.
 
 Both are good to go. Fedora has a lifecycle of about 13 months and Ubuntu of about 9 months. Ubuntu LTS 5 years.
 

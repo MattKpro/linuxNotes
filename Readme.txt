@@ -1,5 +1,8 @@
 Ubuntu or Fedora - good choices.
 
+https://ubuntu.com/download
+https://fedoraproject.org/
+
 Ubuntu:
 1. Install Flatpak and Flathub
 2. Enable additional Repos in Software & Updates
